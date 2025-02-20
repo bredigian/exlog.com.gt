@@ -1,5 +1,5 @@
 import Image from "next/image"
-import background from "@/assets/background.png"
+import background from "@/assets/background.webp"
 import logo from "@/assets/logo.png"
 import facebook from "@/assets/facebook.png"
 import instagram from "@/assets/instagram.png"
